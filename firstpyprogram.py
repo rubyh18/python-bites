@@ -1,5 +1,7 @@
 print("hello world")
-name=("ruby")
+name=("Casey")
+print("my name is", name)
 age=22
+print("my age is", age)
 college=("university of delhi")
-print("my college name is : ", college)
+print("I am currently pursuing my degree at", college)
