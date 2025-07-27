@@ -1,4 +1,4 @@
-print("hello world")
+print("hello buds")
 name=("Casey")
 print("my name is", name)
 age=22
