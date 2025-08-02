@@ -1,2 +1,2 @@
 # python-bites
-Daily practice files 
+Daily practice codes
